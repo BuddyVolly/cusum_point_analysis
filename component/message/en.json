@@ -1,0 +1,11 @@
+{
+    "not_translated": "this message only exist in the en dict",
+    "app": {
+        "title": "Cusum Point Analysis",
+        "footer": "The sky is the limit \u00a9 {}",
+        "drawer_item": {
+            "aoi": "AOI selection",
+            "about": "About"
+        }
+    }
+}

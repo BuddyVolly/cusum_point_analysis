@@ -1,0 +1,10 @@
+{
+    "app": {
+        "title": "Cusum Point Analysis",
+        "footer": "vers l'infini et au-del\u00e0 \u00a9 {}",
+        "drawer_item": {
+            "aoi": "S\u00e9lection d'AOI",
+            "about": "A propos"
+        }
+    }
+}
